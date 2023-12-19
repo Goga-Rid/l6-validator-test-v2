@@ -28,10 +28,3 @@ class StringSchema {
   }
 }
 export default StringSchema;
-
-// for (let i = 0; i < value.length; i++) {
-//     if (value[i] === ' ') {
-//         return true;
-//     }
-// return false
-//   }
